@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-image: url("https://wallpaperaccess.com/full/7469.jpg");
+    background-size: auto;
+    overflow-x: none;
+}
+h1{
+    color: white;
+    font-size: 10vw;
+    margin-top: 2vw;
+    margin-bottom: 1.5vw;
+    font-family: "kajiro";
+    font-weight: 400;
+}
+h2{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 1.5rem;
+    background-color: rgb(80, 199, 250);
+    color: yellow;
+    font-size: 3vw;
+    margin-top: 2vw;
+    font-family:"gilroy";
+    font-weight: 900;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
